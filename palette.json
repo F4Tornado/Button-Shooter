@@ -1,0 +1,10 @@
+data = [
+  {
+    "name": "background",
+    "hex": "#ebebeb"
+  },
+  {
+    "name": "foreground",
+    "hex": "#333333"
+  }
+]
